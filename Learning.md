@@ -1,6 +1,6 @@
 # Learning
 
-## Create Branck
+## Create Branch
 ### ブランチ作成
 git branch feature/01_create_branch
 git branch feature/02_commit feature/01_create_branch
