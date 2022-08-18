@@ -54,3 +54,13 @@ git merge main
 ```
 git push -u origin feature/02_commit
 ```
+
+### iPhone GitHub Appの操作を試してみる。
+
+- Step 1: Create Branch
+```
+git switch -c feature/04_pull_request_for_app
+```
+- Step 2: Commit & Push
+
+
