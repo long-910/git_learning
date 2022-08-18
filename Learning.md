@@ -12,6 +12,7 @@ git branch feature/02_commit feature/01_create_branch
 git checkout feature/01_create_branch
 ```
 
+***
 ## Commit & Push
 ### ファイル追加
 ```
@@ -28,6 +29,7 @@ git commit -m "[Add] Learning.md"
 git push origin feature/01_create_branch
 ```
 
+***
 ## Pull Request
 ### Checkout PR
 ```
@@ -62,5 +64,7 @@ git push -u origin feature/02_commit
 git switch -c feature/04_pull_request_for_app
 ```
 - Step 2: Commit & Push
+- Step 3: Create PR  
+  [git_learning/pull/4](https://github.com/long-910/git_learning/pull/4)
 
 
